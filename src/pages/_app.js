@@ -1,4 +1,4 @@
-import 'bootstrap/dist/css/bootstrap.min.css
+import 'bootstrap/dist/css/bootstrap.min.css'
 import 'bootstrap-icons/font/bootstrap-icons.css';
 import Sidebar from '@components/sidebar';
 import Footer from '../components/footer';
